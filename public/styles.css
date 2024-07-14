@@ -1,0 +1,20 @@
+.description {
+    margin-top: -15px;
+}
+
+p, a{
+    font-size: 1.4rem;
+}
+
+#display_picture {
+    width: 225px;
+}
+
+table {
+    border: 1px solid;
+}
+
+#footer p, #footer a {
+    text-align: center;
+    font-size: 1.1rem;
+}
